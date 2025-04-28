@@ -37,7 +37,7 @@
 
 ---
 
-## 🟩 Tech Stack
+## <span style="color:#00dc38;">🟩 Tech Stack</span>
 
 | 🌐 Frontend | ⚙️ Backend | 🛢️ Databases | ☁️ Cloud & DevOps | 🔄 CI/CD & Monitoring | 🔧 Tools | 🖥️ Operating Systems | 🔒 Networking & Security |
 |---|---|---|---|---|---|---|---|

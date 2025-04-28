@@ -6,18 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:0f2027&height=80&section=header&text=Willkommen%20auf%20meinem%20GitHub-Profil&fontColor=6bd600&fontSize=28&fontAlignY=60" />
 </p>
 
-<pre align="center" style="color:#6bd600;font-family:monospace;">
-▒██   ██▒ █    ██  ██▓    ▄▄▄       ███▄ ▄███▓ ▒█████   ██▀███  ▓█████ 
-▒▒ █ █ ▒░ ██  ▓██▒▓██▒   ▒████▄    ▓██▒▀█▀ ██▒▒██▒  ██▒▓██ ▒ ██▒▓█   ▀ 
-░░  █   ░▓██  ▒██░▒██░   ▒██  ▀█▄  ▓██    ▓██░▒██░  ██▒▓██ ░▄█ ▒▒███   
- ░ █ █ ▒ ▓▓█  ░██░▒██░   ░██▄▄▄▄██ ▒██    ▒██ ▒██   ██░▒██▀▀█▄  ▒▓█  ▄ 
-▒██▒ ▒██▒▒▒█████▓ ░██████▒▓█   ▓██▒▒██▒   ░██▒░ ████▓▒░░██▓ ▒██▒░▒████▒
-▒▒ ░ ░▓ ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░░ ▒░   ░  ░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░░ ▒░ ░
-░░   ░▒ ░░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░░  ░      ░  ░ ▒ ▒░   ░▒ ░ ▒░ ░ ░  ░
- ░    ░   ░░░ ░ ░   ░ ░    ░   ▒   ░      ░   ░ ░ ░ ▒    ░░   ░    ░   
- ░    ░     ░         ░  ░     ░  ░       ░       ░ ░     ░        ░  ░
-                                                                       
-</pre>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xulamore/Xulamore/refs/heads/main/Xulamore.png" alt="XULAMORE ASCII" />
+</p>
 
 ---
 

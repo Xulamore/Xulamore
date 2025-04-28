@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xulamore/Xulamore/refs/heads/main/Xulamore.png" alt="XULAMORE ASCII" />
+  <img src="https://raw.githubusercontent.com/Xulamore/Xulamore/refs/heads/main/Xulamore.png" alt="XULAMORE ASCII" width="500"/>
 </p>
 
 ---

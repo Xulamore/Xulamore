@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Stevan!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/Xulamore)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+mein+Name+ist+Jury!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/Xulamore)
 
 🔹 **IT-Expert: Cloud Computing und Webentwicklung**  
 🔹 Leidenschaft für moderne Webentwicklung, DevOps und kreative Tech-Projekte  

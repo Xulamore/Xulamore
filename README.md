@@ -12,7 +12,7 @@
 
 ---
 
-## <span style="color:#6bd600;">🟩 IT-Expert: Cloud Computing und Webentwicklung</span>
+## <span style="color:#6bd600;">🟢 IT-Expert: Cloud Computing und Webentwicklung</span>
 
 - Leidenschaft für moderne Webentwicklung, DevOps und kreative Tech-Projekte  
 - Fokus auf Automatisierung, Cloud-Infrastruktur und sichere Kommunikation
@@ -28,7 +28,7 @@
 
 ---
 
-## <span style="color:#6bd600;">🟩 Tech Stack</span>
+## <span style="color:#6bd600;">🟢 Tech Stack</span>
 
 | 🌐 Frontend | ⚙️ Backend | 🛢️ Databases | ☁️ Cloud & DevOps | 🔄 CI/CD & Monitoring | 🔧 Tools | 🖥️ Operating Systems | 🔒 Networking & Security |
 |---|---|---|---|---|---|---|---|

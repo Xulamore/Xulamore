@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00dc38&center=true&width=700&lines=Hallo,+mein+Name+ist+Jury!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=6bd600&center=true&width=700&lines=Hallo,+mein+Name+ist+Jury!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:0f2027&height=80&section=header&text=Willkommen%20auf%20meinem%20GitHub-Profil&fontColor=00dc38&fontSize=28&fontAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:0f2027&height=80&section=header&text=Willkommen%20auf%20meinem%20GitHub-Profil&fontColor=6bd600&fontSize=28&fontAlignY=60" />
 </p>
 
-<pre align="center" style="color:#00dc38;font-family:monospace;">
+<pre align="center" style="color:#6bd600;font-family:monospace;">
 ▒██   ██▒ █    ██  ██▓    ▄▄▄       ███▄ ▄███▓ ▒█████   ██▀███  ▓█████ 
 ▒▒ █ █ ▒░ ██  ▓██▒▓██▒   ▒████▄    ▓██▒▀█▀ ██▒▒██▒  ██▒▓██ ▒ ██▒▓█   ▀ 
 ░░  █   ░▓██  ▒██░▒██░   ▒██  ▀█▄  ▓██    ▓██░▒██░  ██▒▓██ ░▄█ ▒▒███   
@@ -21,14 +21,14 @@
 
 ---
 
-## <span style="color:#00dc38;">🟩 IT-Expert: Cloud Computing und Webentwicklung</span>
+## <span style="color:#6bd600;">🟩 IT-Expert: Cloud Computing und Webentwicklung</span>
 
 - Leidenschaft für moderne Webentwicklung, DevOps und kreative Tech-Projekte  
 - Fokus auf Automatisierung, Cloud-Infrastruktur und sichere Kommunikation
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xulamore&show_icons=true&theme=chartreuse-dark&border_color=00dc38) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xulamore&layout=compact&theme=chartreuse-dark&border_color=00dc38)](https://github.com/Xulamore/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xulamore&show_icons=true&theme=chartreuse-dark&border_color=6bd600) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xulamore&layout=compact&theme=chartreuse-dark&border_color=6bd600)](https://github.com/Xulamore/github-readme-stats) |
 |--------------|--------------|
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 
-## <span style="color:#00dc38;">🟩 Tech Stack</span>
+## <span style="color:#6bd600;">🟩 Tech Stack</span>
 
 | 🌐 Frontend | ⚙️ Backend | 🛢️ Databases | ☁️ Cloud & DevOps | 🔄 CI/CD & Monitoring | 🔧 Tools | 🖥️ Operating Systems | 🔒 Networking & Security |
 |---|---|---|---|---|---|---|---|
@@ -45,14 +45,14 @@
 
 ---
 
-## <span style="color:#00dc38;">📂 Projekte</span>
+## <span style="color:#6bd600;">📂 Projekte</span>
 
 🔹 Platzhalter  
 ➡️ Beschreibung
 
 ---
 
-## <span style="color:#00dc38;">📫 Kontakt</span>
+## <span style="color:#6bd600;">📫 Kontakt</span>
 
 💼 [LinkedIn](https://www.linkedin.com/in/PLACEHOLDER/)  
 🌐 [get-in-IT Profil ansehen](https://www.get-in-it.de/profil/PLACEHOLDER)

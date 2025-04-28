@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:0f2027&height=100&section=header&text=Willkommen%20auf%20meinem%20GitHub-Profil&fontColor=00FF41&fontSize=40&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:0f2027&height=80&section=header&text=Willkommen%20auf%20meinem%20GitHub-Profil&fontColor=00FF41&fontSize=28&fontAlignY=60" />
 </p>
 
 <pre align="center" style="color:#00FF41;font-family:monospace;">

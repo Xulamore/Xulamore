@@ -10,7 +10,9 @@
   <img src="https://raw.githubusercontent.com/Xulamore/Xulamore/refs/heads/main/Xulamore.png" alt="XULAMORE ASCII" width="500"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xulamore/Xulamore/refs/heads/main/geen_line.png" alt="grüne Linie" width="600"/>
+</p>
 
 ## <span style="color:#6bd600;">🟢 IT-Expert: Cloud Computing und Webentwicklung</span>
 
